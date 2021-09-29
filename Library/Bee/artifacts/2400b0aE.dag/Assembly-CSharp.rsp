@@ -317,8 +317,9 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Scenes/Scripts/BloqueControl.cs"
-"Assets/Scenes/Scripts/MovedorControl.cs"
+"Assets/Scenes/Scripts/BFZA/BloqueControl.cs"
+"Assets/Scenes/Scripts/BFZA/MovedorControl.cs"
+"Assets/Scenes/Scripts/BFZB/Jump.cs"
 "Assets/Scenes/Sprites/Sci-Fi UI/Demo_Assets/scripts/GUI_Demo.cs"
 -langversion:8.0
 

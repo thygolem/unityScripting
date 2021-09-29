@@ -36,9 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scenes/Scripts/BloqueControl.cs" />
-     <Compile Include="Assets/Scenes/Scripts/MovedorControl.cs" />
+     <Compile Include="Assets/Scenes/Scripts/BFZA/BloqueControl.cs" />
+     <Compile Include="Assets/Scenes/Scripts/BFZA/MovedorControl.cs" />
      <Compile Include="Assets/Scenes/Sprites/Sci-Fi UI/Demo_Assets/scripts/GUI_Demo.cs" />
+     <Compile Include="Assets/Scenes/Scripts/BFZB/Jump.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/ubuntu/Unity/Hub/Editor/2021.1.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
