@@ -320,6 +320,8 @@
 "Assets/Scenes/Scripts/BFZA/BloqueControl.cs"
 "Assets/Scenes/Scripts/BFZA/MovedorControl.cs"
 "Assets/Scenes/Scripts/BFZB/Jump.cs"
+"Assets/Scenes/Scripts/BFZB/scaleUp.cs"
+"Assets/Scenes/Scripts/Canvas/NewBehaviourScript.cs"
 "Assets/Scenes/Sprites/Sci-Fi UI/Demo_Assets/scripts/GUI_Demo.cs"
 -langversion:8.0
 

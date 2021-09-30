@@ -16,6 +16,8 @@ public class Jump : MonoBehaviour
         if (Input.GetKeyDown("space"))
         {
             this.GetComponent<Rigidbody>().AddForce(transform.up * 500f);
+            transform.localScale *= 2;
+
         }
     }
 }
